@@ -10,8 +10,6 @@ export function isRecord(value: unknown): value is Record<Key, unknown> {
   )
 }
 
-const v = []
-
 export function assertIsRecord(
   value: unknown,
   message: string
