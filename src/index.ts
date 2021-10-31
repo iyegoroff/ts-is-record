@@ -10,7 +10,7 @@ export function isRecord(value: unknown): value is Record<Key, unknown> {
   )
 }
 
-export function assertIsRecord(
+export function assertRecord(
   value: unknown,
   message: string
 ): asserts value is Record<Key, unknown> {
