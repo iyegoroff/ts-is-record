@@ -1,11 +1,5 @@
 # ts-is-record
 
-[![npm version](https://badge.fury.io/js/ts-is-record.svg?t=1495378566925)](https://badge.fury.io/js/ts-is-record)
-[![CircleCI](https://circleci.com/gh/iyegoroff/ts-is-record.svg?style=svg)](https://circleci.com/gh/iyegoroff/ts-is-record)
-[![Dependency Status](https://david-dm.org/iyegoroff/ts-is-record.svg?t=1495378566925)](https://david-dm.org/iyegoroff/ts-is-record)
-[![devDependencies Status](https://david-dm.org/iyegoroff/ts-is-record/dev-status.svg)](https://david-dm.org/iyegoroff/ts-is-record?type=dev)
-[![npm](https://img.shields.io/npm/l/ts-is-record.svg?t=1495378566925)](https://www.npmjs.com/package/ts-is-record)
-
 [![npm](https://img.shields.io/npm/v/ts-is-record)](https://npm.im/ts-is-record)
 [![CircleCI](https://circleci.com/gh/iyegoroff/ts-is-record.svg?style=svg)](https://circleci.com/gh/iyegoroff/ts-is-record)
 ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/ts-is-record)
