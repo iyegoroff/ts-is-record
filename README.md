@@ -6,6 +6,12 @@
 [![devDependencies Status](https://david-dm.org/iyegoroff/ts-is-record/dev-status.svg)](https://david-dm.org/iyegoroff/ts-is-record?type=dev)
 [![npm](https://img.shields.io/npm/l/ts-is-record.svg?t=1495378566925)](https://www.npmjs.com/package/ts-is-record)
 
+[![npm](https://img.shields.io/npm/v/ts-is-record)](https://npm.im/ts-is-record)
+[![CircleCI](https://circleci.com/gh/iyegoroff/ts-is-record.svg?style=svg)](https://circleci.com/gh/iyegoroff/ts-is-record)
+![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/ts-is-record)
+[![Bundlephobia](https://badgen.net/bundlephobia/minzip/ts-is-record?label=min+gzip)](https://bundlephobia.com/package/ts-is-record)
+[![npm](https://img.shields.io/npm/l/ts-is-record.svg?t=1495378566925)](https://www.npmjs.com/package/ts-is-record)
+
 Typescript utilities
 
 ```ts
