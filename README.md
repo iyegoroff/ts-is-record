@@ -1,10 +1,13 @@
 # ts-is-record
 
 [![npm](https://img.shields.io/npm/v/ts-is-record)](https://npm.im/ts-is-record)
-[![CircleCI](https://circleci.com/gh/iyegoroff/ts-is-record.svg?style=svg)](https://circleci.com/gh/iyegoroff/ts-is-record)
+[![build](https://github.com/iyegoroff/ts-is-record/workflows/build/badge.svg)](https://github.com/iyegoroff/ts-is-record/actions/workflows/build.yml)
+[![publish](https://github.com/iyegoroff/ts-is-record/workflows/publish/badge.svg)](https://github.com/iyegoroff/ts-is-record/actions/workflows/publish.yml)
 ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/ts-is-record)
-[![Bundlephobia](https://badgen.net/bundlephobia/minzip/ts-is-record?label=min+gzip)](https://bundlephobia.com/package/ts-is-record)
+[![Bundlephobia](https://img.shields.io/bundlephobia/minzip/ts-is-record?label=min+gzip)](https://bundlephobia.com/package/ts-is-record)
 [![npm](https://img.shields.io/npm/l/ts-is-record.svg?t=1495378566925)](https://www.npmjs.com/package/ts-is-record)
+
+<!-- [![Bundlephobia](https://badgen.net/bundlephobia/minzip/ts-is-record?label=min+gzip)](https://bundlephobia.com/package/ts-is-record) -->
 
 Typescript utilities
 
