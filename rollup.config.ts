@@ -9,30 +9,30 @@ const config: readonly RollupOptions[] = [
     input: 'src/index.ts',
     output: { dir: 'tmp', format: 'es', sourcemap: true },
     plugins: [typescript({ tsconfig: 'tsconfig.build.json' })],
-    external,
+    external
   },
   {
     input: 'src/index.ts',
     output: [
       { file: 'dist/index.cjs', format: 'cjs', sourcemap: true },
-      { file: 'dist/index.js', format: 'esm', sourcemap: true },
+      { file: 'dist/index.js', format: 'esm', sourcemap: true }
     ],
     plugins: [
       typescript({
         tsconfig: 'tsconfig.build.json',
         compilerOptions: {
           declaration: false,
-          removeComments: true,
-        },
-      }),
+          removeComments: true
+        }
+      })
     ],
-    external,
+    external
   },
   {
     input: 'tmp/index.d.ts',
     output: [{ file: 'dist/index.d.ts', format: 'es' }],
-    plugins: [dts()],
-  },
+    plugins: [dts()]
+  }
 ]
 
 export default config
